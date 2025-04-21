@@ -29,7 +29,7 @@ The dataset used is publicly available at https://docs.google.com/spreadsheets/d
 
 ## How to Use
 
-- Visit the dashboard: [View Dashboard](href="projects/looker-customer-churn/embed.html" target="_blank">Customer Churn Analysis Dashboard in Looker Studio)
+- [Click here to explore the Customer Churn Dashboard]([https://yourusername.github.io/analytics-projects/projects/looker-customer-churn/](https://matthew-martin1184.github.io/analytics-projects/projects/looker-customer-churn/embed.html))
 - Hover over charts for detailed tooltips and trend indicators
 
 ## Insights
