@@ -16,7 +16,6 @@ To identify patterns and drivers of customer churn using descriptive analytics a
 
 - **Google Looker Studio** for data visualization
 - **Google Sheets** for data storage and transformation
-- **GitHub Pages** for project hosting
 
 ## Features
 
