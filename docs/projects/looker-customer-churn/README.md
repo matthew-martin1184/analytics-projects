@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project was built as part of a data visualization course at San Jose State University. It is an interactive dashboard analyzing customer churn metrics for a fictional telecom company. The dashboard provides insights into customer demographics, contract types, churn rates, and key factors that influence customer retention. The dashboard includes interactive filering, breakdown dimensions, and enriched and blended data sources for complex metrics.
+This project was built as part of a data visualization course at San Jose State University. It is an interactive dashboard analyzing customer churn metrics for a fictional telecom company. The dashboard provides insights into customer demographics, contract types, churn rates, and key factors that influence customer retention. The dashboard includes interactive filtering, breakdown dimensions, and enriched and blended data sources for complex metrics.
 
 ## Objective
 
